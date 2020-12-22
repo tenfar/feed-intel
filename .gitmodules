@@ -1,0 +1,24 @@
+[submodule "intel_mips"]
+	path = intel_mips
+	url = https://github.com/paldier/feed_target_mips.git
+[submodule "ppa"]
+	path = ppa
+	url = https://gitlab.com/prpl-foundation/intel/feed_ppa.git
+[submodule "gphy_firmware"]
+	path = gphy_firmware
+	url = https://gitlab.com/prpl-foundation/intel/feed_gphy_firmware.git
+[submodule "switch_api"]
+	path = switch_api
+	url = https://gitlab.com/prpl-foundation/intel/feed_switch_api
+[submodule "wlan_6x"]
+	path = wlan_6x
+	url = https://gitlab.com/prpl-foundation/intel/feed_wlan_6x
+[submodule "opensource_apps"]
+	path = opensource_apps
+	url = https://gitlab.com/prpl-foundation/intel/feed_opensource_apps
+[submodule "pending"]
+	path = pending
+	url = https://gitlab.com/prpl-foundation/intel/feed-pending
+[submodule "datapath"]
+	path = datapath
+	url = https://gitlab.com/prpl-foundation/intel/feed_datapath
