@@ -1,6 +1,6 @@
 [submodule "intel_mips"]
 	path = intel_mips
-	url = https://github.com/paldier/feed_target_mips.git
+	url = https://github.com/tenfar/feed_target_mips.git
 [submodule "ppa"]
 	path = ppa
 	url = https://gitlab.com/prpl-foundation/intel/feed_ppa.git
